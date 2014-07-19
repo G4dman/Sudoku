@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Sudoku\Sudoku\Sudoku\Sudoku\obj\x86\Debug\Sudoku.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Sudoku\Sudoku\Sudoku\Sudoku\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\User\Desktop\Sudoku\Sudoku\Sudoku\Sudoku\bin\x86\Debug\Sudoku.exe
+C:\Users\User\Desktop\Sudoku\Sudoku\Sudoku\Sudoku\bin\x86\Debug\Sudoku.pdb
+C:\Users\User\Desktop\Sudoku\Sudoku\Sudoku\Sudoku\obj\x86\Debug\Sudoku.exe
+C:\Users\User\Desktop\Sudoku\Sudoku\Sudoku\Sudoku\obj\x86\Debug\Sudoku.pdb
+C:\Users\User\Desktop\Sudoku\Sudoku\Sudoku\Sudoku\bin\x86\Debug\Content\Cell.xnb
